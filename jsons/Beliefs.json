@@ -48,7 +48,7 @@
 
         "type": "Pantheon",
 
-        "uniques": ["[+10]% growth [in this city]"]
+        "uniques": ["[+15]% growth [in this city]"]
 
 
 
@@ -60,7 +60,7 @@
 
         "type": "Pantheon",
 
-        "uniques": ["[+2 Production] <in cities with at least [2] [Population]>"]
+        "uniques": ["[+2 Production] <in cities with at least [3] [Population]>"]
 
     },
 
@@ -192,7 +192,7 @@
 
         "type": "Pantheon",
 
-        "uniques": ["[-15]% Culture cost of natural border growth [in cities following this religion]"]
+        "uniques": ["[-20]% Culture cost of natural border growth [in cities following this religion]"]
 
     },
 
@@ -222,7 +222,7 @@
 
         "type": "Pantheon",
 
-        "uniques": ["[+2 Faith, +1 Culture] from every [Quarry]"]
+        "uniques": ["[+2 Faith, +1 Culture, +1 Gold] from every [Quarry]"]
 
     },
 
