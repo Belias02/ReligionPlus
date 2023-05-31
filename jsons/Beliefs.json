@@ -16,7 +16,7 @@
 
         "type": "Pantheon",
 
-        "uniques": ["[+1 Faith] from [Tundra] tiles without [Forest] [in this city]"]
+        "uniques": ["[+1 Faith] from every [Tundra]"]
 
     },
 
@@ -38,7 +38,7 @@
 
         "uniques": ["[All] Units adjacent to this city heal [+30] HP per turn when healing"]
 
-        // This should be worded better
+
 
     },
 
@@ -50,7 +50,7 @@
 
         "uniques": ["[+10]% growth [in this city]"]
 
-        // Preferably I would not have a cityFilter here, but doing so requires no additional implementation
+
 
     },
 
@@ -60,7 +60,7 @@
 
         "type": "Pantheon",
 
-        "uniques": ["[+1 Production] <in cities with at least [3] [Population]>"]
+        "uniques": ["[+2 Production] <in cities with at least [2] [Population]>"]
 
     },
 
@@ -70,7 +70,7 @@
 
         "type": "Pantheon",
 
-        "uniques": ["[+1 Culture] from every [Pasture]"]
+        "uniques": ["[+1 Culture, +1 Faith] from every [Pasture]"]
 
     },
 
@@ -100,7 +100,7 @@
 
         "type": "Pantheon",
 
-        "uniques": ["[+1 Culture, +1 Faith] from every [Wine]", "[+1 Culture, +1 Faith] from every [Incense]"]
+        "uniques": ["[+1 Culture, +1 Faith, +1 Gold] from every [Wine]", "[+1 Culture, +1 Faith, +1 gold] from every [Incense]"]
 
     },
 
@@ -152,19 +152,9 @@
 
         "uniques": ["[+15]% Production when constructing [All] wonders [in cities following this religion]"]
 
-        // ToDo: Should only be ancient/classical era wonders, but implementing that is another can of worms
 
-        // For that we really should need an era.matchesFilter(), so we could write something like:
 
-        //"uniques": ["[+15]% Production when constructing [Ancient era] wonders [in cities following this religion]",
-
-        // "[+15]% Production when constructing [Classical era] wonders [in cities following this religion]"]
-
-        // For now this feels like overkill, but I'll leave this here for the future
-
-        // Alternatively, we could approximate this with "[+15]% Production when constructing [All] wonders [in all cities] <during the [Ancient era]>"
-
-    },
+},
 
     {
 
@@ -172,7 +162,7 @@
 
         "type": "Pantheon",
 
-        "uniques": ["[+4 Faith] from every [Natural Wonder]"]
+        "uniques": ["[+4 Faith, +3 Culture, +1 Gold] from every [Natural Wonder]"]
 
     },
 
@@ -182,7 +172,7 @@
 
         "type": "Pantheon",
 
-        "uniques": ["[+1 Culture] from every [Plantation]"]
+        "uniques": ["[+1 Culture, +1 Faith, +1 Science] from every [Plantation]"]
 
     },
 
@@ -192,7 +182,7 @@
 
         "type": "Pantheon",
 
-        "uniques": ["[+1 Culture, +1 Faith] from every [Gold Ore]", "[+1 Culture, +1 Faith] from every [Silver]"]
+        "uniques": ["[+1 Culture, +1 Faith, +1 Gold] from every [Gold Ore]", "[+1 Culture, +1 Faith, +1 Gold] from every [Silver]"]
 
     },
 
@@ -222,7 +212,7 @@
 
         "type": "Pantheon",
 
-        "uniques": ["[+1 Happiness] in cities on [River] tiles"]
+        "uniques": ["[+3 Happiness] in cities on [River] tiles"]
 
     },
 
@@ -232,7 +222,7 @@
 
         "type": "Pantheon",
 
-        "uniques": ["[+2 Faith] from every [Quarry]"]
+        "uniques": ["[+2 Faith, +1 Culture] from every [Quarry]"]
 
     },
 
