@@ -234,7 +234,7 @@
 
         "type": "Follower",
 
-        "uniques": ["[+1 Happiness] from every [Shrine] <in cities with at least [3] [Followers of this Religion]>"]
+        "uniques": ["[+1 Happiness] from all [Faith] buildings"]
 
     },
 
@@ -254,7 +254,7 @@
 
         "type": "Follower",
 
-        "uniques": ["[+2 Culture] from every [Temple] <in cities with at least [5] [Followers of this Religion]>"]
+        "uniques": ["[+3 Culture] from every [Temple] <in cities with at least [3] [Followers of this Religion]>"]
 
     },
 
@@ -274,7 +274,7 @@
 
         "type": "Follower",
 
-        "uniques": ["[+1 Food] from every [Shrine]", "[+1 Food] from every [Temple]"]
+        "uniques": ["[+1 Food] from all [Faith] buildings"]
 
     },
 
@@ -284,7 +284,7 @@
 
         "type": "Follower",
 
-        "uniques": ["[+2 Production] [in cities following this religion] <in cities with at least [1] [Specialists]>"]
+        "uniques": ["[+3 Production] [in cities following this religion] <in cities with at least [1] [Specialists]>"]
 
     },
 
@@ -304,7 +304,7 @@
 
         "type": "Follower",
 
-        "uniques": ["[+1 Faith] from every [Amphitheater] <in cities with at least [3] [Followers of this Religion]>"]
+        "uniques": ["[+2 Faith, +2 Culture, +2 Gold] from every [Amphitheater] <in cities with at least [3] [Followers of this Religion]>"]
 
     },
 
@@ -344,7 +344,7 @@
 
         "type": "Follower",
 
-        "uniques": ["[+2 Happiness] from every [Garden]"]
+        "uniques": ["[+2 Happiness, +1 Culture] from every [Garden]"]
 
     },
 
@@ -364,7 +364,7 @@
 
         "type": "Follower",
 
-        "uniques": ["[+2 Happiness] from every [Temple] <in cities with at least [5] [Followers of this Religion]>"]
+        "uniques": ["[+2 Happiness] from every [Temple] <in cities with at least [3] [Followers of this Religion]>"]
 
     },
 
