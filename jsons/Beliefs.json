@@ -110,7 +110,7 @@
 
         "type": "Pantheon",
 
-        "uniques": ["[+1 Happiness] <in cities with at least [6] [Population]>"]
+        "uniques": ["[+1 Happiness] per [6] population [in this city]"]
 
     },
 
