@@ -60,7 +60,7 @@
 
         "type": "Pantheon",
 
-        "uniques": ["[+2 Production] <in cities with at least [3] [Population]>"]
+        "uniques": ["[+2 Production] [in cities following this religion] <in cities with at least [3] [Population]>"]
 
     },
 
