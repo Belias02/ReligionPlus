@@ -212,7 +212,7 @@
 
         "type": "Pantheon",
 
-        "uniques": ["[+3 Happiness] in cities on [River] tiles"]
+        "uniques": ["[+2 Happiness] in cities on [River] tiles"]
 
     },
 
@@ -314,7 +314,7 @@
 
         "type": "Follower",
 
-        "uniques": ["May buy [Monastery] buildings for [150] [Faith] [in cities following this religion]"]
+        "uniques": ["May buy [Monastery] buildings for [75] [Faith] [in cities following this religion]"]
 
     },
 
@@ -384,7 +384,7 @@
 
         "type": "Follower",
 
-        "uniques": ["[+15]% growth [in this city] <when not at war>"]
+        "uniques": ["[+25]% growth [in this city] <when not at war>"]
 
     },
 
