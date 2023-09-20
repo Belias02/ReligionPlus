@@ -140,7 +140,7 @@
 
         "type": "Pantheon",
 
-        "uniques": ["[+2 Science] from each Trade Route"]
+        "uniques": ["[+2 Science, +1 Gold] from each Trade Route"]
 
     },
 
@@ -162,7 +162,7 @@
 
         "type": "Pantheon",
 
-        "uniques": ["[+4 Faith, +3 Culture, +1 Gold] from every [Natural Wonder]"]
+        "uniques": ["[+2 Faith, +1 Culture, +1 Gold] from every [Natural Wonder]"]
 
     },
 
@@ -172,7 +172,7 @@
 
         "type": "Pantheon",
 
-        "uniques": ["[+1 Culture, +1 Faith, +1 Science] from every [Plantation]"]
+        "uniques": ["[+1 Culture, +1 Science] from every [Plantation]"]
 
     },
 
