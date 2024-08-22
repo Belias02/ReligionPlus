@@ -109,6 +109,11 @@
         "type": "Pantheon",
         "uniques": ["[+2 Faith, +1 Culture, +1 Gold] from every [Quarry]"]
     },
+    {
+        "name": "Worldly Inspiration",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith, +1 Production] from every [Great Improvement]"]
+    },
 ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
     {
         "name": "Asceticism",
